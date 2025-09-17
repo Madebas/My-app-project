@@ -9,7 +9,7 @@ function ProgramsText() {
         initial="hidden"
         whileInView="show"
         viewport={{ once: false, amount: 0.7 }}
-        className="text-2xl sm:text-3xl font-bold text-[#003366]"
+        className="text-2xl sm:text-3xl font-bold text-[#d0d4d8]"
       >
         Program Overview
       </motion.h3>
@@ -18,7 +18,7 @@ function ProgramsText() {
         initial="hidden"
         whileInView="show"
         viewport={{ once: false, amount: 0.7 }}
-        className="text-[#003366] text-base sm:text-lg"
+        className="text-[#e8eaeb] text-base sm:text-lg"
       >
         Our programs are tailored to meet industry standards, offering hands-on training, cutting-edge curriculum, and opportunities for clinical practice. Each course is designed to prepare you for licensure and a thriving career in healthcare.
       </motion.p>

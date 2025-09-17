@@ -24,11 +24,8 @@ function App() {
       <section id="Goals">
         <GoalsMain />
       </section>
-      <section id="Student Life">
-        <ApplicationMain /> {/* Assuming ApplicationMain represents Student Life content */}
-      </section>
       <section id="Application">
-        <ApplicationMain /> {/* If separate, adjust accordingly */}
+        <ApplicationMain />
       </section>
       <section id="Contact">
         <ContactMain />
